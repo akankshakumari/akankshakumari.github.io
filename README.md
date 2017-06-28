@@ -14,6 +14,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+Welcome to Akanksha's homepage!
+add to bookmarks to keep an eye on my work updates.
 
 - Bulleted
 - List
